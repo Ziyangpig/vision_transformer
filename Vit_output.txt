@@ -1,0 +1,769 @@
+[epoch=  1, iter=  200] loss: 2.009 epoch time: 3.488 seconds
+[epoch=  1, iter=  200] loss: 2.009 epoch time: 3.488 seconds
+[epoch=  1, iter=  400] loss: 1.822 epoch time: 3.248 seconds
+[epoch=  1, iter=  400] loss: 1.822 epoch time: 3.248 seconds
+[epoch=  1, iter=  600] loss: 1.739 epoch time: 3.616 seconds
+[epoch=  1, iter=  600] loss: 1.739 epoch time: 3.616 seconds
+[epoch=  2, iter=  200] loss: 1.642 epoch time: 3.472 seconds
+[epoch=  2, iter=  200] loss: 1.642 epoch time: 3.472 seconds
+[epoch=  2, iter=  400] loss: 1.576 epoch time: 3.538 seconds
+[epoch=  2, iter=  400] loss: 1.576 epoch time: 3.538 seconds
+[epoch=  2, iter=  600] loss: 1.521 epoch time: 3.918 seconds
+[epoch=  2, iter=  600] loss: 1.521 epoch time: 3.918 seconds
+[epoch=  3, iter=  200] loss: 1.470 epoch time: 3.121 seconds
+[epoch=  3, iter=  200] loss: 1.470 epoch time: 3.121 seconds
+[epoch=  3, iter=  400] loss: 1.448 epoch time: 3.382 seconds
+[epoch=  3, iter=  400] loss: 1.448 epoch time: 3.382 seconds
+[epoch=  3, iter=  600] loss: 1.408 epoch time: 3.691 seconds
+[epoch=  3, iter=  600] loss: 1.408 epoch time: 3.691 seconds
+[epoch=  4, iter=  200] loss: 1.374 epoch time: 3.230 seconds
+[epoch=  4, iter=  200] loss: 1.374 epoch time: 3.230 seconds
+[epoch=  4, iter=  400] loss: 1.373 epoch time: 3.044 seconds
+[epoch=  4, iter=  400] loss: 1.373 epoch time: 3.044 seconds
+[epoch=  4, iter=  600] loss: 1.360 epoch time: 3.083 seconds
+[epoch=  4, iter=  600] loss: 1.360 epoch time: 3.083 seconds
+[epoch=  5, iter=  200] loss: 1.320 epoch time: 3.164 seconds
+[epoch=  5, iter=  200] loss: 1.320 epoch time: 3.164 seconds
+[epoch=  5, iter=  400] loss: 1.318 epoch time: 3.287 seconds
+[epoch=  5, iter=  400] loss: 1.318 epoch time: 3.287 seconds
+[epoch=  5, iter=  600] loss: 1.317 epoch time: 3.339 seconds
+[epoch=  5, iter=  600] loss: 1.317 epoch time: 3.339 seconds
+[epoch=  6, iter=  200] loss: 1.288 epoch time: 3.572 seconds
+[epoch=  6, iter=  200] loss: 1.288 epoch time: 3.572 seconds
+[epoch=  6, iter=  400] loss: 1.286 epoch time: 3.487 seconds
+[epoch=  6, iter=  400] loss: 1.286 epoch time: 3.487 seconds
+[epoch=  6, iter=  600] loss: 1.267 epoch time: 2.794 seconds
+[epoch=  6, iter=  600] loss: 1.267 epoch time: 2.794 seconds
+[epoch=  7, iter=  200] loss: 1.249 epoch time: 2.937 seconds
+[epoch=  7, iter=  200] loss: 1.249 epoch time: 2.937 seconds
+[epoch=  7, iter=  400] loss: 1.238 epoch time: 2.962 seconds
+[epoch=  7, iter=  400] loss: 1.238 epoch time: 2.962 seconds
+[epoch=  7, iter=  600] loss: 1.251 epoch time: 3.230 seconds
+[epoch=  7, iter=  600] loss: 1.251 epoch time: 3.230 seconds
+[epoch=  8, iter=  200] loss: 1.232 epoch time: 3.496 seconds
+[epoch=  8, iter=  200] loss: 1.232 epoch time: 3.496 seconds
+[epoch=  8, iter=  400] loss: 1.225 epoch time: 3.337 seconds
+[epoch=  8, iter=  400] loss: 1.225 epoch time: 3.337 seconds
+[epoch=  8, iter=  600] loss: 1.211 epoch time: 3.409 seconds
+[epoch=  8, iter=  600] loss: 1.211 epoch time: 3.409 seconds
+[epoch=  9, iter=  200] loss: 1.175 epoch time: 3.697 seconds
+[epoch=  9, iter=  200] loss: 1.175 epoch time: 3.697 seconds
+[epoch=  9, iter=  400] loss: 1.204 epoch time: 3.370 seconds
+[epoch=  9, iter=  400] loss: 1.204 epoch time: 3.370 seconds
+[epoch=  9, iter=  600] loss: 1.196 epoch time: 3.131 seconds
+[epoch=  9, iter=  600] loss: 1.196 epoch time: 3.131 seconds
+[epoch= 10, iter=  200] loss: 1.185 epoch time: 3.056 seconds
+[epoch= 10, iter=  200] loss: 1.185 epoch time: 3.056 seconds
+[epoch= 10, iter=  400] loss: 1.156 epoch time: 3.263 seconds
+[epoch= 10, iter=  400] loss: 1.156 epoch time: 3.263 seconds
+[epoch= 10, iter=  600] loss: 1.177 epoch time: 3.289 seconds
+[epoch= 10, iter=  600] loss: 1.177 epoch time: 3.289 seconds
+[epoch= 11, iter=  200] loss: 1.137 epoch time: 3.064 seconds
+[epoch= 11, iter=  200] loss: 1.137 epoch time: 3.064 seconds
+[epoch= 11, iter=  400] loss: 1.156 epoch time: 2.933 seconds
+[epoch= 11, iter=  400] loss: 1.156 epoch time: 2.933 seconds
+[epoch= 11, iter=  600] loss: 1.134 epoch time: 3.119 seconds
+[epoch= 11, iter=  600] loss: 1.134 epoch time: 3.119 seconds
+[epoch= 12, iter=  200] loss: 1.122 epoch time: 2.883 seconds
+[epoch= 12, iter=  200] loss: 1.122 epoch time: 2.883 seconds
+[epoch= 12, iter=  400] loss: 1.122 epoch time: 2.912 seconds
+[epoch= 12, iter=  400] loss: 1.122 epoch time: 2.912 seconds
+[epoch= 12, iter=  600] loss: 1.138 epoch time: 2.984 seconds
+[epoch= 12, iter=  600] loss: 1.138 epoch time: 2.984 seconds
+[epoch= 13, iter=  200] loss: 1.102 epoch time: 2.943 seconds
+[epoch= 13, iter=  200] loss: 1.102 epoch time: 2.943 seconds
+[epoch= 13, iter=  400] loss: 1.099 epoch time: 3.393 seconds
+[epoch= 13, iter=  400] loss: 1.099 epoch time: 3.393 seconds
+[epoch= 13, iter=  600] loss: 1.097 epoch time: 3.687 seconds
+[epoch= 13, iter=  600] loss: 1.097 epoch time: 3.687 seconds
+[epoch= 14, iter=  200] loss: 1.074 epoch time: 3.649 seconds
+[epoch= 14, iter=  200] loss: 1.074 epoch time: 3.649 seconds
+[epoch= 14, iter=  400] loss: 1.082 epoch time: 3.235 seconds
+[epoch= 14, iter=  400] loss: 1.082 epoch time: 3.235 seconds
+[epoch= 14, iter=  600] loss: 1.079 epoch time: 3.114 seconds
+[epoch= 14, iter=  600] loss: 1.079 epoch time: 3.114 seconds
+[epoch= 15, iter=  200] loss: 1.059 epoch time: 3.230 seconds
+[epoch= 15, iter=  200] loss: 1.059 epoch time: 3.230 seconds
+[epoch= 15, iter=  400] loss: 1.066 epoch time: 3.049 seconds
+[epoch= 15, iter=  400] loss: 1.066 epoch time: 3.049 seconds
+[epoch= 15, iter=  600] loss: 1.069 epoch time: 2.914 seconds
+[epoch= 15, iter=  600] loss: 1.069 epoch time: 2.914 seconds
+[epoch= 16, iter=  200] loss: 1.044 epoch time: 3.378 seconds
+[epoch= 16, iter=  200] loss: 1.044 epoch time: 3.378 seconds
+[epoch= 16, iter=  400] loss: 1.043 epoch time: 3.774 seconds
+[epoch= 16, iter=  400] loss: 1.043 epoch time: 3.774 seconds
+[epoch= 16, iter=  600] loss: 1.057 epoch time: 4.412 seconds
+[epoch= 16, iter=  600] loss: 1.057 epoch time: 4.412 seconds
+[epoch= 17, iter=  200] loss: 1.050 epoch time: 3.044 seconds
+[epoch= 17, iter=  200] loss: 1.050 epoch time: 3.044 seconds
+[epoch= 17, iter=  400] loss: 1.048 epoch time: 3.031 seconds
+[epoch= 17, iter=  400] loss: 1.048 epoch time: 3.031 seconds
+[epoch= 17, iter=  600] loss: 1.025 epoch time: 3.029 seconds
+[epoch= 17, iter=  600] loss: 1.025 epoch time: 3.029 seconds
+[epoch= 18, iter=  200] loss: 1.025 epoch time: 2.886 seconds
+[epoch= 18, iter=  200] loss: 1.025 epoch time: 2.886 seconds
+[epoch= 18, iter=  400] loss: 1.015 epoch time: 2.858 seconds
+[epoch= 18, iter=  400] loss: 1.015 epoch time: 2.858 seconds
+[epoch= 18, iter=  600] loss: 1.015 epoch time: 2.924 seconds
+[epoch= 18, iter=  600] loss: 1.015 epoch time: 2.924 seconds
+[epoch= 19, iter=  200] loss: 1.000 epoch time: 2.839 seconds
+[epoch= 19, iter=  200] loss: 1.000 epoch time: 2.839 seconds
+[epoch= 19, iter=  400] loss: 1.002 epoch time: 2.714 seconds
+[epoch= 19, iter=  400] loss: 1.002 epoch time: 2.714 seconds
+[epoch= 19, iter=  600] loss: 1.008 epoch time: 2.754 seconds
+[epoch= 19, iter=  600] loss: 1.008 epoch time: 2.754 seconds
+[epoch= 20, iter=  200] loss: 0.971 epoch time: 3.226 seconds
+[epoch= 20, iter=  200] loss: 0.971 epoch time: 3.226 seconds
+[epoch= 20, iter=  400] loss: 0.972 epoch time: 2.983 seconds
+[epoch= 20, iter=  400] loss: 0.972 epoch time: 2.983 seconds
+[epoch= 20, iter=  600] loss: 0.994 epoch time: 3.333 seconds
+[epoch= 20, iter=  600] loss: 0.994 epoch time: 3.333 seconds
+[epoch= 21, iter=  200] loss: 0.982 epoch time: 3.030 seconds
+[epoch= 21, iter=  200] loss: 0.982 epoch time: 3.030 seconds
+[epoch= 21, iter=  400] loss: 0.967 epoch time: 2.919 seconds
+[epoch= 21, iter=  400] loss: 0.967 epoch time: 2.919 seconds
+[epoch= 21, iter=  600] loss: 0.968 epoch time: 2.936 seconds
+[epoch= 21, iter=  600] loss: 0.968 epoch time: 2.936 seconds
+[epoch= 22, iter=  200] loss: 0.950 epoch time: 3.181 seconds
+[epoch= 22, iter=  200] loss: 0.950 epoch time: 3.181 seconds
+[epoch= 22, iter=  400] loss: 0.941 epoch time: 3.233 seconds
+[epoch= 22, iter=  400] loss: 0.941 epoch time: 3.233 seconds
+[epoch= 22, iter=  600] loss: 0.976 epoch time: 3.105 seconds
+[epoch= 22, iter=  600] loss: 0.976 epoch time: 3.105 seconds
+[epoch= 23, iter=  200] loss: 0.926 epoch time: 3.062 seconds
+[epoch= 23, iter=  200] loss: 0.926 epoch time: 3.062 seconds
+[epoch= 23, iter=  400] loss: 0.950 epoch time: 3.151 seconds
+[epoch= 23, iter=  400] loss: 0.950 epoch time: 3.151 seconds
+[epoch= 23, iter=  600] loss: 0.955 epoch time: 3.024 seconds
+[epoch= 23, iter=  600] loss: 0.955 epoch time: 3.024 seconds
+[epoch= 24, iter=  200] loss: 0.922 epoch time: 3.013 seconds
+[epoch= 24, iter=  200] loss: 0.922 epoch time: 3.013 seconds
+[epoch= 24, iter=  400] loss: 0.934 epoch time: 2.781 seconds
+[epoch= 24, iter=  400] loss: 0.934 epoch time: 2.781 seconds
+[epoch= 24, iter=  600] loss: 0.940 epoch time: 2.783 seconds
+[epoch= 24, iter=  600] loss: 0.940 epoch time: 2.783 seconds
+[epoch= 25, iter=  200] loss: 0.920 epoch time: 2.743 seconds
+[epoch= 25, iter=  200] loss: 0.920 epoch time: 2.743 seconds
+[epoch= 25, iter=  400] loss: 0.911 epoch time: 2.780 seconds
+[epoch= 25, iter=  400] loss: 0.911 epoch time: 2.780 seconds
+[epoch= 25, iter=  600] loss: 0.916 epoch time: 2.837 seconds
+[epoch= 25, iter=  600] loss: 0.916 epoch time: 2.837 seconds
+[epoch= 26, iter=  200] loss: 0.906 epoch time: 3.183 seconds
+[epoch= 26, iter=  200] loss: 0.906 epoch time: 3.183 seconds
+[epoch= 26, iter=  400] loss: 0.901 epoch time: 3.201 seconds
+[epoch= 26, iter=  400] loss: 0.901 epoch time: 3.201 seconds
+[epoch= 26, iter=  600] loss: 0.906 epoch time: 3.230 seconds
+[epoch= 26, iter=  600] loss: 0.906 epoch time: 3.230 seconds
+[epoch= 27, iter=  200] loss: 0.887 epoch time: 3.315 seconds
+[epoch= 27, iter=  200] loss: 0.887 epoch time: 3.315 seconds
+[epoch= 27, iter=  400] loss: 0.884 epoch time: 3.974 seconds
+[epoch= 27, iter=  400] loss: 0.884 epoch time: 3.974 seconds
+[epoch= 27, iter=  600] loss: 0.898 epoch time: 4.022 seconds
+[epoch= 27, iter=  600] loss: 0.898 epoch time: 4.022 seconds
+[epoch= 28, iter=  200] loss: 0.865 epoch time: 3.125 seconds
+[epoch= 28, iter=  200] loss: 0.865 epoch time: 3.125 seconds
+[epoch= 28, iter=  400] loss: 0.880 epoch time: 3.180 seconds
+[epoch= 28, iter=  400] loss: 0.880 epoch time: 3.180 seconds
+[epoch= 28, iter=  600] loss: 0.883 epoch time: 3.116 seconds
+[epoch= 28, iter=  600] loss: 0.883 epoch time: 3.116 seconds
+[epoch= 29, iter=  200] loss: 0.864 epoch time: 3.109 seconds
+[epoch= 29, iter=  200] loss: 0.864 epoch time: 3.109 seconds
+[epoch= 29, iter=  400] loss: 0.851 epoch time: 3.046 seconds
+[epoch= 29, iter=  400] loss: 0.851 epoch time: 3.046 seconds
+[epoch= 29, iter=  600] loss: 0.854 epoch time: 3.052 seconds
+[epoch= 29, iter=  600] loss: 0.854 epoch time: 3.052 seconds
+[epoch= 30, iter=  200] loss: 0.851 epoch time: 3.123 seconds
+[epoch= 30, iter=  200] loss: 0.851 epoch time: 3.123 seconds
+[epoch= 30, iter=  400] loss: 0.854 epoch time: 3.292 seconds
+[epoch= 30, iter=  400] loss: 0.854 epoch time: 3.292 seconds
+[epoch= 30, iter=  600] loss: 0.856 epoch time: 3.264 seconds
+[epoch= 30, iter=  600] loss: 0.856 epoch time: 3.264 seconds
+[epoch= 31, iter=  200] loss: 0.825 epoch time: 3.345 seconds
+[epoch= 31, iter=  200] loss: 0.825 epoch time: 3.345 seconds
+[epoch= 31, iter=  400] loss: 0.846 epoch time: 3.075 seconds
+[epoch= 31, iter=  400] loss: 0.846 epoch time: 3.075 seconds
+[epoch= 31, iter=  600] loss: 0.844 epoch time: 2.977 seconds
+[epoch= 31, iter=  600] loss: 0.844 epoch time: 2.977 seconds
+[epoch= 32, iter=  200] loss: 0.821 epoch time: 2.987 seconds
+[epoch= 32, iter=  200] loss: 0.821 epoch time: 2.987 seconds
+[epoch= 32, iter=  400] loss: 0.832 epoch time: 3.179 seconds
+[epoch= 32, iter=  400] loss: 0.832 epoch time: 3.179 seconds
+[epoch= 32, iter=  600] loss: 0.827 epoch time: 3.451 seconds
+[epoch= 32, iter=  600] loss: 0.827 epoch time: 3.451 seconds
+[epoch= 33, iter=  200] loss: 0.810 epoch time: 3.152 seconds
+[epoch= 33, iter=  200] loss: 0.810 epoch time: 3.152 seconds
+[epoch= 33, iter=  400] loss: 0.829 epoch time: 3.101 seconds
+[epoch= 33, iter=  400] loss: 0.829 epoch time: 3.101 seconds
+[epoch= 33, iter=  600] loss: 0.831 epoch time: 3.433 seconds
+[epoch= 33, iter=  600] loss: 0.831 epoch time: 3.433 seconds
+[epoch= 34, iter=  200] loss: 0.809 epoch time: 3.449 seconds
+[epoch= 34, iter=  200] loss: 0.809 epoch time: 3.449 seconds
+[epoch= 34, iter=  400] loss: 0.801 epoch time: 3.322 seconds
+[epoch= 34, iter=  400] loss: 0.801 epoch time: 3.322 seconds
+[epoch= 34, iter=  600] loss: 0.798 epoch time: 3.389 seconds
+[epoch= 34, iter=  600] loss: 0.798 epoch time: 3.389 seconds
+[epoch= 35, iter=  200] loss: 0.788 epoch time: 3.222 seconds
+[epoch= 35, iter=  200] loss: 0.788 epoch time: 3.222 seconds
+[epoch= 35, iter=  400] loss: 0.801 epoch time: 3.181 seconds
+[epoch= 35, iter=  400] loss: 0.801 epoch time: 3.181 seconds
+[epoch= 35, iter=  600] loss: 0.796 epoch time: 3.179 seconds
+[epoch= 35, iter=  600] loss: 0.796 epoch time: 3.179 seconds
+[epoch= 36, iter=  200] loss: 0.772 epoch time: 2.986 seconds
+[epoch= 36, iter=  200] loss: 0.772 epoch time: 2.986 seconds
+[epoch= 36, iter=  400] loss: 0.792 epoch time: 3.332 seconds
+[epoch= 36, iter=  400] loss: 0.792 epoch time: 3.332 seconds
+[epoch= 36, iter=  600] loss: 0.807 epoch time: 3.578 seconds
+[epoch= 36, iter=  600] loss: 0.807 epoch time: 3.578 seconds
+[epoch= 37, iter=  200] loss: 0.764 epoch time: 3.603 seconds
+[epoch= 37, iter=  200] loss: 0.764 epoch time: 3.603 seconds
+[epoch= 37, iter=  400] loss: 0.773 epoch time: 3.528 seconds
+[epoch= 37, iter=  400] loss: 0.773 epoch time: 3.528 seconds
+[epoch= 37, iter=  600] loss: 0.776 epoch time: 3.118 seconds
+[epoch= 37, iter=  600] loss: 0.776 epoch time: 3.118 seconds
+[epoch= 38, iter=  200] loss: 0.756 epoch time: 2.796 seconds
+[epoch= 38, iter=  200] loss: 0.756 epoch time: 2.796 seconds
+[epoch= 38, iter=  400] loss: 0.755 epoch time: 2.791 seconds
+[epoch= 38, iter=  400] loss: 0.755 epoch time: 2.791 seconds
+[epoch= 38, iter=  600] loss: 0.763 epoch time: 2.744 seconds
+[epoch= 38, iter=  600] loss: 0.763 epoch time: 2.744 seconds
+[epoch= 39, iter=  200] loss: 0.737 epoch time: 2.935 seconds
+[epoch= 39, iter=  200] loss: 0.737 epoch time: 2.935 seconds
+[epoch= 39, iter=  400] loss: 0.757 epoch time: 3.210 seconds
+[epoch= 39, iter=  400] loss: 0.757 epoch time: 3.210 seconds
+[epoch= 39, iter=  600] loss: 0.756 epoch time: 3.371 seconds
+[epoch= 39, iter=  600] loss: 0.756 epoch time: 3.371 seconds
+[epoch= 40, iter=  200] loss: 0.729 epoch time: 2.892 seconds
+[epoch= 40, iter=  200] loss: 0.729 epoch time: 2.892 seconds
+[epoch= 40, iter=  400] loss: 0.722 epoch time: 2.913 seconds
+[epoch= 40, iter=  400] loss: 0.722 epoch time: 2.913 seconds
+[epoch= 40, iter=  600] loss: 0.736 epoch time: 2.867 seconds
+[epoch= 40, iter=  600] loss: 0.736 epoch time: 2.867 seconds
+[epoch= 41, iter=  200] loss: 0.718 epoch time: 2.916 seconds
+[epoch= 41, iter=  200] loss: 0.718 epoch time: 2.916 seconds
+[epoch= 41, iter=  400] loss: 0.719 epoch time: 3.369 seconds
+[epoch= 41, iter=  400] loss: 0.719 epoch time: 3.369 seconds
+[epoch= 41, iter=  600] loss: 0.710 epoch time: 3.106 seconds
+[epoch= 41, iter=  600] loss: 0.710 epoch time: 3.106 seconds
+[epoch= 42, iter=  200] loss: 0.711 epoch time: 3.567 seconds
+[epoch= 42, iter=  200] loss: 0.711 epoch time: 3.567 seconds
+[epoch= 42, iter=  400] loss: 0.720 epoch time: 3.197 seconds
+[epoch= 42, iter=  400] loss: 0.720 epoch time: 3.197 seconds
+[epoch= 42, iter=  600] loss: 0.715 epoch time: 3.073 seconds
+[epoch= 42, iter=  600] loss: 0.715 epoch time: 3.073 seconds
+[epoch= 43, iter=  200] loss: 0.693 epoch time: 2.822 seconds
+[epoch= 43, iter=  200] loss: 0.693 epoch time: 2.822 seconds
+[epoch= 43, iter=  400] loss: 0.713 epoch time: 2.834 seconds
+[epoch= 43, iter=  400] loss: 0.713 epoch time: 2.834 seconds
+[epoch= 43, iter=  600] loss: 0.711 epoch time: 2.847 seconds
+[epoch= 43, iter=  600] loss: 0.711 epoch time: 2.847 seconds
+[epoch= 44, iter=  200] loss: 0.694 epoch time: 2.837 seconds
+[epoch= 44, iter=  200] loss: 0.694 epoch time: 2.837 seconds
+[epoch= 44, iter=  400] loss: 0.685 epoch time: 2.757 seconds
+[epoch= 44, iter=  400] loss: 0.685 epoch time: 2.757 seconds
+[epoch= 44, iter=  600] loss: 0.704 epoch time: 2.878 seconds
+[epoch= 44, iter=  600] loss: 0.704 epoch time: 2.878 seconds
+[epoch= 45, iter=  200] loss: 0.664 epoch time: 3.099 seconds
+[epoch= 45, iter=  200] loss: 0.664 epoch time: 3.099 seconds
+[epoch= 45, iter=  400] loss: 0.690 epoch time: 2.710 seconds
+[epoch= 45, iter=  400] loss: 0.690 epoch time: 2.710 seconds
+[epoch= 45, iter=  600] loss: 0.689 epoch time: 2.883 seconds
+[epoch= 45, iter=  600] loss: 0.689 epoch time: 2.883 seconds
+[epoch= 46, iter=  200] loss: 0.661 epoch time: 3.079 seconds
+[epoch= 46, iter=  200] loss: 0.661 epoch time: 3.079 seconds
+[epoch= 46, iter=  400] loss: 0.680 epoch time: 3.324 seconds
+[epoch= 46, iter=  400] loss: 0.680 epoch time: 3.324 seconds
+[epoch= 46, iter=  600] loss: 0.685 epoch time: 3.046 seconds
+[epoch= 46, iter=  600] loss: 0.685 epoch time: 3.046 seconds
+[epoch= 47, iter=  200] loss: 0.659 epoch time: 2.750 seconds
+[epoch= 47, iter=  200] loss: 0.659 epoch time: 2.750 seconds
+[epoch= 47, iter=  400] loss: 0.662 epoch time: 2.683 seconds
+[epoch= 47, iter=  400] loss: 0.662 epoch time: 2.683 seconds
+[epoch= 47, iter=  600] loss: 0.661 epoch time: 2.776 seconds
+[epoch= 47, iter=  600] loss: 0.661 epoch time: 2.776 seconds
+[epoch= 48, iter=  200] loss: 0.621 epoch time: 3.045 seconds
+[epoch= 48, iter=  200] loss: 0.621 epoch time: 3.045 seconds
+[epoch= 48, iter=  400] loss: 0.655 epoch time: 3.375 seconds
+[epoch= 48, iter=  400] loss: 0.655 epoch time: 3.375 seconds
+[epoch= 48, iter=  600] loss: 0.663 epoch time: 3.326 seconds
+[epoch= 48, iter=  600] loss: 0.663 epoch time: 3.326 seconds
+[epoch= 49, iter=  200] loss: 0.628 epoch time: 3.042 seconds
+[epoch= 49, iter=  200] loss: 0.628 epoch time: 3.042 seconds
+[epoch= 49, iter=  400] loss: 0.638 epoch time: 2.931 seconds
+[epoch= 49, iter=  400] loss: 0.638 epoch time: 2.931 seconds
+[epoch= 49, iter=  600] loss: 0.657 epoch time: 2.888 seconds
+[epoch= 49, iter=  600] loss: 0.657 epoch time: 2.888 seconds
+[epoch= 50, iter=  200] loss: 0.628 epoch time: 3.012 seconds
+[epoch= 50, iter=  200] loss: 0.628 epoch time: 3.012 seconds
+[epoch= 50, iter=  400] loss: 0.620 epoch time: 3.074 seconds
+[epoch= 50, iter=  400] loss: 0.620 epoch time: 3.074 seconds
+[epoch= 50, iter=  600] loss: 0.639 epoch time: 3.087 seconds
+[epoch= 50, iter=  600] loss: 0.639 epoch time: 3.087 seconds
+[epoch= 51, iter=  200] loss: 0.613 epoch time: 3.206 seconds
+[epoch= 51, iter=  200] loss: 0.613 epoch time: 3.206 seconds
+[epoch= 51, iter=  400] loss: 0.633 epoch time: 3.283 seconds
+[epoch= 51, iter=  400] loss: 0.633 epoch time: 3.283 seconds
+[epoch= 51, iter=  600] loss: 0.615 epoch time: 3.134 seconds
+[epoch= 51, iter=  600] loss: 0.615 epoch time: 3.134 seconds
+[epoch= 52, iter=  200] loss: 0.591 epoch time: 3.750 seconds
+[epoch= 52, iter=  200] loss: 0.591 epoch time: 3.750 seconds
+[epoch= 52, iter=  400] loss: 0.619 epoch time: 3.676 seconds
+[epoch= 52, iter=  400] loss: 0.619 epoch time: 3.676 seconds
+[epoch= 52, iter=  600] loss: 0.622 epoch time: 3.660 seconds
+[epoch= 52, iter=  600] loss: 0.622 epoch time: 3.660 seconds
+[epoch= 53, iter=  200] loss: 0.585 epoch time: 3.417 seconds
+[epoch= 53, iter=  200] loss: 0.585 epoch time: 3.417 seconds
+[epoch= 53, iter=  400] loss: 0.611 epoch time: 3.264 seconds
+[epoch= 53, iter=  400] loss: 0.611 epoch time: 3.264 seconds
+[epoch= 53, iter=  600] loss: 0.620 epoch time: 2.877 seconds
+[epoch= 53, iter=  600] loss: 0.620 epoch time: 2.877 seconds
+[epoch= 54, iter=  200] loss: 0.579 epoch time: 3.184 seconds
+[epoch= 54, iter=  200] loss: 0.579 epoch time: 3.184 seconds
+[epoch= 54, iter=  400] loss: 0.595 epoch time: 3.378 seconds
+[epoch= 54, iter=  400] loss: 0.595 epoch time: 3.378 seconds
+[epoch= 54, iter=  600] loss: 0.621 epoch time: 3.074 seconds
+[epoch= 54, iter=  600] loss: 0.621 epoch time: 3.074 seconds
+[epoch= 55, iter=  200] loss: 0.580 epoch time: 3.141 seconds
+[epoch= 55, iter=  200] loss: 0.580 epoch time: 3.141 seconds
+[epoch= 55, iter=  400] loss: 0.576 epoch time: 3.567 seconds
+[epoch= 55, iter=  400] loss: 0.576 epoch time: 3.567 seconds
+[epoch= 55, iter=  600] loss: 0.606 epoch time: 4.031 seconds
+[epoch= 55, iter=  600] loss: 0.606 epoch time: 4.031 seconds
+[epoch= 56, iter=  200] loss: 0.557 epoch time: 3.063 seconds
+[epoch= 56, iter=  200] loss: 0.557 epoch time: 3.063 seconds
+[epoch= 56, iter=  400] loss: 0.562 epoch time: 3.190 seconds
+[epoch= 56, iter=  400] loss: 0.562 epoch time: 3.190 seconds
+[epoch= 56, iter=  600] loss: 0.591 epoch time: 3.357 seconds
+[epoch= 56, iter=  600] loss: 0.591 epoch time: 3.357 seconds
+[epoch= 57, iter=  200] loss: 0.557 epoch time: 3.836 seconds
+[epoch= 57, iter=  200] loss: 0.557 epoch time: 3.836 seconds
+[epoch= 57, iter=  400] loss: 0.560 epoch time: 3.221 seconds
+[epoch= 57, iter=  400] loss: 0.560 epoch time: 3.221 seconds
+[epoch= 57, iter=  600] loss: 0.580 epoch time: 3.271 seconds
+[epoch= 57, iter=  600] loss: 0.580 epoch time: 3.271 seconds
+[epoch= 58, iter=  200] loss: 0.540 epoch time: 2.790 seconds
+[epoch= 58, iter=  200] loss: 0.540 epoch time: 2.790 seconds
+[epoch= 58, iter=  400] loss: 0.558 epoch time: 2.735 seconds
+[epoch= 58, iter=  400] loss: 0.558 epoch time: 2.735 seconds
+[epoch= 58, iter=  600] loss: 0.578 epoch time: 2.940 seconds
+[epoch= 58, iter=  600] loss: 0.578 epoch time: 2.940 seconds
+[epoch= 59, iter=  200] loss: 0.560 epoch time: 2.956 seconds
+[epoch= 59, iter=  200] loss: 0.560 epoch time: 2.956 seconds
+[epoch= 59, iter=  400] loss: 0.544 epoch time: 2.989 seconds
+[epoch= 59, iter=  400] loss: 0.544 epoch time: 2.989 seconds
+[epoch= 59, iter=  600] loss: 0.548 epoch time: 3.024 seconds
+[epoch= 59, iter=  600] loss: 0.548 epoch time: 3.024 seconds
+[epoch= 60, iter=  200] loss: 0.518 epoch time: 3.073 seconds
+[epoch= 60, iter=  200] loss: 0.518 epoch time: 3.073 seconds
+[epoch= 60, iter=  400] loss: 0.528 epoch time: 2.903 seconds
+[epoch= 60, iter=  400] loss: 0.528 epoch time: 2.903 seconds
+[epoch= 60, iter=  600] loss: 0.548 epoch time: 2.883 seconds
+[epoch= 60, iter=  600] loss: 0.548 epoch time: 2.883 seconds
+[epoch= 61, iter=  200] loss: 0.518 epoch time: 3.333 seconds
+[epoch= 61, iter=  200] loss: 0.518 epoch time: 3.333 seconds
+[epoch= 61, iter=  400] loss: 0.526 epoch time: 3.188 seconds
+[epoch= 61, iter=  400] loss: 0.526 epoch time: 3.188 seconds
+[epoch= 61, iter=  600] loss: 0.542 epoch time: 3.432 seconds
+[epoch= 61, iter=  600] loss: 0.542 epoch time: 3.432 seconds
+[epoch= 62, iter=  200] loss: 0.508 epoch time: 2.980 seconds
+[epoch= 62, iter=  200] loss: 0.508 epoch time: 2.980 seconds
+[epoch= 62, iter=  400] loss: 0.525 epoch time: 2.926 seconds
+[epoch= 62, iter=  400] loss: 0.525 epoch time: 2.926 seconds
+[epoch= 62, iter=  600] loss: 0.523 epoch time: 2.677 seconds
+[epoch= 62, iter=  600] loss: 0.523 epoch time: 2.677 seconds
+[epoch= 63, iter=  200] loss: 0.489 epoch time: 3.181 seconds
+[epoch= 63, iter=  200] loss: 0.489 epoch time: 3.181 seconds
+[epoch= 63, iter=  400] loss: 0.522 epoch time: 3.138 seconds
+[epoch= 63, iter=  400] loss: 0.522 epoch time: 3.138 seconds
+[epoch= 63, iter=  600] loss: 0.515 epoch time: 3.318 seconds
+[epoch= 63, iter=  600] loss: 0.515 epoch time: 3.318 seconds
+[epoch= 64, iter=  200] loss: 0.474 epoch time: 3.509 seconds
+[epoch= 64, iter=  200] loss: 0.474 epoch time: 3.509 seconds
+[epoch= 64, iter=  400] loss: 0.519 epoch time: 3.735 seconds
+[epoch= 64, iter=  400] loss: 0.519 epoch time: 3.735 seconds
+[epoch= 64, iter=  600] loss: 0.520 epoch time: 3.109 seconds
+[epoch= 64, iter=  600] loss: 0.520 epoch time: 3.109 seconds
+[epoch= 65, iter=  200] loss: 0.496 epoch time: 3.392 seconds
+[epoch= 65, iter=  200] loss: 0.496 epoch time: 3.392 seconds
+[epoch= 65, iter=  400] loss: 0.495 epoch time: 3.648 seconds
+[epoch= 65, iter=  400] loss: 0.495 epoch time: 3.648 seconds
+[epoch= 65, iter=  600] loss: 0.481 epoch time: 3.199 seconds
+[epoch= 65, iter=  600] loss: 0.481 epoch time: 3.199 seconds
+[epoch= 66, iter=  200] loss: 0.466 epoch time: 2.999 seconds
+[epoch= 66, iter=  200] loss: 0.466 epoch time: 2.999 seconds
+[epoch= 66, iter=  400] loss: 0.483 epoch time: 2.871 seconds
+[epoch= 66, iter=  400] loss: 0.483 epoch time: 2.871 seconds
+[epoch= 66, iter=  600] loss: 0.506 epoch time: 3.255 seconds
+[epoch= 66, iter=  600] loss: 0.506 epoch time: 3.255 seconds
+[epoch= 67, iter=  200] loss: 0.474 epoch time: 3.101 seconds
+[epoch= 67, iter=  200] loss: 0.474 epoch time: 3.101 seconds
+[epoch= 67, iter=  400] loss: 0.485 epoch time: 3.488 seconds
+[epoch= 67, iter=  400] loss: 0.485 epoch time: 3.488 seconds
+[epoch= 67, iter=  600] loss: 0.487 epoch time: 3.315 seconds
+[epoch= 67, iter=  600] loss: 0.487 epoch time: 3.315 seconds
+[epoch= 68, iter=  200] loss: 0.463 epoch time: 3.130 seconds
+[epoch= 68, iter=  200] loss: 0.463 epoch time: 3.130 seconds
+[epoch= 68, iter=  400] loss: 0.475 epoch time: 3.207 seconds
+[epoch= 68, iter=  400] loss: 0.475 epoch time: 3.207 seconds
+[epoch= 68, iter=  600] loss: 0.484 epoch time: 3.259 seconds
+[epoch= 68, iter=  600] loss: 0.484 epoch time: 3.259 seconds
+[epoch= 69, iter=  200] loss: 0.450 epoch time: 2.859 seconds
+[epoch= 69, iter=  200] loss: 0.450 epoch time: 2.859 seconds
+[epoch= 69, iter=  400] loss: 0.466 epoch time: 2.818 seconds
+[epoch= 69, iter=  400] loss: 0.466 epoch time: 2.818 seconds
+[epoch= 69, iter=  600] loss: 0.477 epoch time: 2.936 seconds
+[epoch= 69, iter=  600] loss: 0.477 epoch time: 2.936 seconds
+[epoch= 70, iter=  200] loss: 0.449 epoch time: 2.938 seconds
+[epoch= 70, iter=  200] loss: 0.449 epoch time: 2.938 seconds
+[epoch= 70, iter=  400] loss: 0.465 epoch time: 2.966 seconds
+[epoch= 70, iter=  400] loss: 0.465 epoch time: 2.966 seconds
+[epoch= 70, iter=  600] loss: 0.472 epoch time: 2.868 seconds
+[epoch= 70, iter=  600] loss: 0.472 epoch time: 2.868 seconds
+[epoch= 71, iter=  200] loss: 0.433 epoch time: 2.920 seconds
+[epoch= 71, iter=  200] loss: 0.433 epoch time: 2.920 seconds
+[epoch= 71, iter=  400] loss: 0.437 epoch time: 2.957 seconds
+[epoch= 71, iter=  400] loss: 0.437 epoch time: 2.957 seconds
+[epoch= 71, iter=  600] loss: 0.463 epoch time: 2.908 seconds
+[epoch= 71, iter=  600] loss: 0.463 epoch time: 2.908 seconds
+[epoch= 72, iter=  200] loss: 0.425 epoch time: 3.447 seconds
+[epoch= 72, iter=  200] loss: 0.425 epoch time: 3.447 seconds
+[epoch= 72, iter=  400] loss: 0.434 epoch time: 3.996 seconds
+[epoch= 72, iter=  400] loss: 0.434 epoch time: 3.996 seconds
+[epoch= 72, iter=  600] loss: 0.449 epoch time: 4.094 seconds
+[epoch= 72, iter=  600] loss: 0.449 epoch time: 4.094 seconds
+[epoch= 73, iter=  200] loss: 0.428 epoch time: 2.727 seconds
+[epoch= 73, iter=  200] loss: 0.428 epoch time: 2.727 seconds
+[epoch= 73, iter=  400] loss: 0.436 epoch time: 3.707 seconds
+[epoch= 73, iter=  400] loss: 0.436 epoch time: 3.707 seconds
+[epoch= 73, iter=  600] loss: 0.418 epoch time: 3.718 seconds
+[epoch= 73, iter=  600] loss: 0.418 epoch time: 3.718 seconds
+[epoch= 74, iter=  200] loss: 0.410 epoch time: 2.861 seconds
+[epoch= 74, iter=  200] loss: 0.410 epoch time: 2.861 seconds
+[epoch= 74, iter=  400] loss: 0.423 epoch time: 2.922 seconds
+[epoch= 74, iter=  400] loss: 0.423 epoch time: 2.922 seconds
+[epoch= 74, iter=  600] loss: 0.443 epoch time: 2.832 seconds
+[epoch= 74, iter=  600] loss: 0.443 epoch time: 2.832 seconds
+[epoch= 75, iter=  200] loss: 0.385 epoch time: 3.230 seconds
+[epoch= 75, iter=  200] loss: 0.385 epoch time: 3.230 seconds
+[epoch= 75, iter=  400] loss: 0.420 epoch time: 3.093 seconds
+[epoch= 75, iter=  400] loss: 0.420 epoch time: 3.093 seconds
+[epoch= 75, iter=  600] loss: 0.435 epoch time: 3.149 seconds
+[epoch= 75, iter=  600] loss: 0.435 epoch time: 3.149 seconds
+[epoch= 76, iter=  200] loss: 0.410 epoch time: 3.207 seconds
+[epoch= 76, iter=  200] loss: 0.410 epoch time: 3.207 seconds
+[epoch= 76, iter=  400] loss: 0.419 epoch time: 3.250 seconds
+[epoch= 76, iter=  400] loss: 0.419 epoch time: 3.250 seconds
+[epoch= 76, iter=  600] loss: 0.428 epoch time: 3.213 seconds
+[epoch= 76, iter=  600] loss: 0.428 epoch time: 3.213 seconds
+[epoch= 77, iter=  200] loss: 0.393 epoch time: 3.125 seconds
+[epoch= 77, iter=  200] loss: 0.393 epoch time: 3.125 seconds
+[epoch= 77, iter=  400] loss: 0.402 epoch time: 3.048 seconds
+[epoch= 77, iter=  400] loss: 0.402 epoch time: 3.048 seconds
+[epoch= 77, iter=  600] loss: 0.408 epoch time: 3.040 seconds
+[epoch= 77, iter=  600] loss: 0.408 epoch time: 3.040 seconds
+[epoch= 78, iter=  200] loss: 0.380 epoch time: 2.941 seconds
+[epoch= 78, iter=  200] loss: 0.380 epoch time: 2.941 seconds
+[epoch= 78, iter=  400] loss: 0.409 epoch time: 3.037 seconds
+[epoch= 78, iter=  400] loss: 0.409 epoch time: 3.037 seconds
+[epoch= 78, iter=  600] loss: 0.409 epoch time: 3.039 seconds
+[epoch= 78, iter=  600] loss: 0.409 epoch time: 3.039 seconds
+[epoch= 79, iter=  200] loss: 0.376 epoch time: 2.876 seconds
+[epoch= 79, iter=  200] loss: 0.376 epoch time: 2.876 seconds
+[epoch= 79, iter=  400] loss: 0.391 epoch time: 3.041 seconds
+[epoch= 79, iter=  400] loss: 0.391 epoch time: 3.041 seconds
+[epoch= 79, iter=  600] loss: 0.412 epoch time: 2.786 seconds
+[epoch= 79, iter=  600] loss: 0.412 epoch time: 2.786 seconds
+[epoch= 80, iter=  200] loss: 0.373 epoch time: 3.027 seconds
+[epoch= 80, iter=  200] loss: 0.373 epoch time: 3.027 seconds
+[epoch= 80, iter=  400] loss: 0.379 epoch time: 2.921 seconds
+[epoch= 80, iter=  400] loss: 0.379 epoch time: 2.921 seconds
+[epoch= 80, iter=  600] loss: 0.415 epoch time: 2.844 seconds
+[epoch= 80, iter=  600] loss: 0.415 epoch time: 2.844 seconds
+[epoch= 81, iter=  200] loss: 0.375 epoch time: 3.218 seconds
+[epoch= 81, iter=  200] loss: 0.375 epoch time: 3.218 seconds
+[epoch= 81, iter=  400] loss: 0.397 epoch time: 3.104 seconds
+[epoch= 81, iter=  400] loss: 0.397 epoch time: 3.104 seconds
+[epoch= 81, iter=  600] loss: 0.395 epoch time: 3.015 seconds
+[epoch= 81, iter=  600] loss: 0.395 epoch time: 3.015 seconds
+[epoch= 82, iter=  200] loss: 0.370 epoch time: 3.348 seconds
+[epoch= 82, iter=  200] loss: 0.370 epoch time: 3.348 seconds
+[epoch= 82, iter=  400] loss: 0.372 epoch time: 3.350 seconds
+[epoch= 82, iter=  400] loss: 0.372 epoch time: 3.350 seconds
+[epoch= 82, iter=  600] loss: 0.401 epoch time: 3.143 seconds
+[epoch= 82, iter=  600] loss: 0.401 epoch time: 3.143 seconds
+[epoch= 83, iter=  200] loss: 0.366 epoch time: 2.797 seconds
+[epoch= 83, iter=  200] loss: 0.366 epoch time: 2.797 seconds
+[epoch= 83, iter=  400] loss: 0.359 epoch time: 2.794 seconds
+[epoch= 83, iter=  400] loss: 0.359 epoch time: 2.794 seconds
+[epoch= 83, iter=  600] loss: 0.365 epoch time: 2.936 seconds
+[epoch= 83, iter=  600] loss: 0.365 epoch time: 2.936 seconds
+[epoch= 84, iter=  200] loss: 0.356 epoch time: 2.748 seconds
+[epoch= 84, iter=  200] loss: 0.356 epoch time: 2.748 seconds
+[epoch= 84, iter=  400] loss: 0.367 epoch time: 2.782 seconds
+[epoch= 84, iter=  400] loss: 0.367 epoch time: 2.782 seconds
+[epoch= 84, iter=  600] loss: 0.369 epoch time: 2.730 seconds
+[epoch= 84, iter=  600] loss: 0.369 epoch time: 2.730 seconds
+[epoch= 85, iter=  200] loss: 0.365 epoch time: 2.979 seconds
+[epoch= 85, iter=  200] loss: 0.365 epoch time: 2.979 seconds
+[epoch= 85, iter=  400] loss: 0.364 epoch time: 3.086 seconds
+[epoch= 85, iter=  400] loss: 0.364 epoch time: 3.086 seconds
+[epoch= 85, iter=  600] loss: 0.356 epoch time: 3.282 seconds
+[epoch= 85, iter=  600] loss: 0.356 epoch time: 3.282 seconds
+[epoch= 86, iter=  200] loss: 0.351 epoch time: 3.108 seconds
+[epoch= 86, iter=  200] loss: 0.351 epoch time: 3.108 seconds
+[epoch= 86, iter=  400] loss: 0.356 epoch time: 2.883 seconds
+[epoch= 86, iter=  400] loss: 0.356 epoch time: 2.883 seconds
+[epoch= 86, iter=  600] loss: 0.369 epoch time: 2.848 seconds
+[epoch= 86, iter=  600] loss: 0.369 epoch time: 2.848 seconds
+[epoch= 87, iter=  200] loss: 0.350 epoch time: 2.858 seconds
+[epoch= 87, iter=  200] loss: 0.350 epoch time: 2.858 seconds
+[epoch= 87, iter=  400] loss: 0.351 epoch time: 3.088 seconds
+[epoch= 87, iter=  400] loss: 0.351 epoch time: 3.088 seconds
+[epoch= 87, iter=  600] loss: 0.358 epoch time: 3.067 seconds
+[epoch= 87, iter=  600] loss: 0.358 epoch time: 3.067 seconds
+[epoch= 88, iter=  200] loss: 0.319 epoch time: 3.284 seconds
+[epoch= 88, iter=  200] loss: 0.319 epoch time: 3.284 seconds
+[epoch= 88, iter=  400] loss: 0.338 epoch time: 3.226 seconds
+[epoch= 88, iter=  400] loss: 0.338 epoch time: 3.226 seconds
+[epoch= 88, iter=  600] loss: 0.349 epoch time: 3.062 seconds
+[epoch= 88, iter=  600] loss: 0.349 epoch time: 3.062 seconds
+[epoch= 89, iter=  200] loss: 0.321 epoch time: 3.258 seconds
+[epoch= 89, iter=  200] loss: 0.321 epoch time: 3.258 seconds
+[epoch= 89, iter=  400] loss: 0.346 epoch time: 3.029 seconds
+[epoch= 89, iter=  400] loss: 0.346 epoch time: 3.029 seconds
+[epoch= 89, iter=  600] loss: 0.363 epoch time: 3.050 seconds
+[epoch= 89, iter=  600] loss: 0.363 epoch time: 3.050 seconds
+[epoch= 90, iter=  200] loss: 0.315 epoch time: 2.998 seconds
+[epoch= 90, iter=  200] loss: 0.315 epoch time: 2.998 seconds
+[epoch= 90, iter=  400] loss: 0.336 epoch time: 3.052 seconds
+[epoch= 90, iter=  400] loss: 0.336 epoch time: 3.052 seconds
+[epoch= 90, iter=  600] loss: 0.358 epoch time: 3.021 seconds
+[epoch= 90, iter=  600] loss: 0.358 epoch time: 3.021 seconds
+[epoch= 91, iter=  200] loss: 0.310 epoch time: 3.029 seconds
+[epoch= 91, iter=  200] loss: 0.310 epoch time: 3.029 seconds
+[epoch= 91, iter=  400] loss: 0.331 epoch time: 3.018 seconds
+[epoch= 91, iter=  400] loss: 0.331 epoch time: 3.018 seconds
+[epoch= 91, iter=  600] loss: 0.338 epoch time: 2.874 seconds
+[epoch= 91, iter=  600] loss: 0.338 epoch time: 2.874 seconds
+[epoch= 92, iter=  200] loss: 0.320 epoch time: 3.576 seconds
+[epoch= 92, iter=  200] loss: 0.320 epoch time: 3.576 seconds
+[epoch= 92, iter=  400] loss: 0.330 epoch time: 2.906 seconds
+[epoch= 92, iter=  400] loss: 0.330 epoch time: 2.906 seconds
+[epoch= 92, iter=  600] loss: 0.341 epoch time: 3.008 seconds
+[epoch= 92, iter=  600] loss: 0.341 epoch time: 3.008 seconds
+[epoch= 93, iter=  200] loss: 0.319 epoch time: 3.498 seconds
+[epoch= 93, iter=  200] loss: 0.319 epoch time: 3.498 seconds
+[epoch= 93, iter=  400] loss: 0.319 epoch time: 2.980 seconds
+[epoch= 93, iter=  400] loss: 0.319 epoch time: 2.980 seconds
+[epoch= 93, iter=  600] loss: 0.336 epoch time: 3.245 seconds
+[epoch= 93, iter=  600] loss: 0.336 epoch time: 3.245 seconds
+[epoch= 94, iter=  200] loss: 0.301 epoch time: 2.801 seconds
+[epoch= 94, iter=  200] loss: 0.301 epoch time: 2.801 seconds
+[epoch= 94, iter=  400] loss: 0.300 epoch time: 2.970 seconds
+[epoch= 94, iter=  400] loss: 0.300 epoch time: 2.970 seconds
+[epoch= 94, iter=  600] loss: 0.342 epoch time: 3.063 seconds
+[epoch= 94, iter=  600] loss: 0.342 epoch time: 3.063 seconds
+[epoch= 95, iter=  200] loss: 0.295 epoch time: 2.900 seconds
+[epoch= 95, iter=  200] loss: 0.295 epoch time: 2.900 seconds
+[epoch= 95, iter=  400] loss: 0.308 epoch time: 2.961 seconds
+[epoch= 95, iter=  400] loss: 0.308 epoch time: 2.961 seconds
+[epoch= 95, iter=  600] loss: 0.321 epoch time: 3.015 seconds
+[epoch= 95, iter=  600] loss: 0.321 epoch time: 3.015 seconds
+[epoch= 96, iter=  200] loss: 0.290 epoch time: 3.332 seconds
+[epoch= 96, iter=  200] loss: 0.290 epoch time: 3.332 seconds
+[epoch= 96, iter=  400] loss: 0.305 epoch time: 3.151 seconds
+[epoch= 96, iter=  400] loss: 0.305 epoch time: 3.151 seconds
+[epoch= 96, iter=  600] loss: 0.331 epoch time: 3.174 seconds
+[epoch= 96, iter=  600] loss: 0.331 epoch time: 3.174 seconds
+[epoch= 97, iter=  200] loss: 0.282 epoch time: 3.870 seconds
+[epoch= 97, iter=  200] loss: 0.282 epoch time: 3.870 seconds
+[epoch= 97, iter=  400] loss: 0.316 epoch time: 3.389 seconds
+[epoch= 97, iter=  400] loss: 0.316 epoch time: 3.389 seconds
+[epoch= 97, iter=  600] loss: 0.318 epoch time: 3.536 seconds
+[epoch= 97, iter=  600] loss: 0.318 epoch time: 3.536 seconds
+[epoch= 98, iter=  200] loss: 0.289 epoch time: 2.739 seconds
+[epoch= 98, iter=  200] loss: 0.289 epoch time: 2.739 seconds
+[epoch= 98, iter=  400] loss: 0.294 epoch time: 2.688 seconds
+[epoch= 98, iter=  400] loss: 0.294 epoch time: 2.688 seconds
+[epoch= 98, iter=  600] loss: 0.309 epoch time: 2.898 seconds
+[epoch= 98, iter=  600] loss: 0.309 epoch time: 2.898 seconds
+[epoch= 99, iter=  200] loss: 0.281 epoch time: 3.032 seconds
+[epoch= 99, iter=  200] loss: 0.281 epoch time: 3.032 seconds
+[epoch= 99, iter=  400] loss: 0.300 epoch time: 3.132 seconds
+[epoch= 99, iter=  400] loss: 0.300 epoch time: 3.132 seconds
+[epoch= 99, iter=  600] loss: 0.293 epoch time: 3.120 seconds
+[epoch= 99, iter=  600] loss: 0.293 epoch time: 3.120 seconds
+[epoch=100, iter=  200] loss: 0.294 epoch time: 3.574 seconds
+[epoch=100, iter=  200] loss: 0.294 epoch time: 3.574 seconds
+[epoch=100, iter=  400] loss: 0.292 epoch time: 3.492 seconds
+[epoch=100, iter=  400] loss: 0.292 epoch time: 3.492 seconds
+[epoch=100, iter=  600] loss: 0.296 epoch time: 3.571 seconds
+[epoch=100, iter=  600] loss: 0.296 epoch time: 3.571 seconds
+[epoch=101, iter=  200] loss: 0.274 epoch time: 3.037 seconds
+[epoch=101, iter=  200] loss: 0.274 epoch time: 3.037 seconds
+[epoch=101, iter=  400] loss: 0.293 epoch time: 3.024 seconds
+[epoch=101, iter=  400] loss: 0.293 epoch time: 3.024 seconds
+[epoch=101, iter=  600] loss: 0.302 epoch time: 3.089 seconds
+[epoch=101, iter=  600] loss: 0.302 epoch time: 3.089 seconds
+[epoch=102, iter=  200] loss: 0.268 epoch time: 2.980 seconds
+[epoch=102, iter=  200] loss: 0.268 epoch time: 2.980 seconds
+[epoch=102, iter=  400] loss: 0.280 epoch time: 2.903 seconds
+[epoch=102, iter=  400] loss: 0.280 epoch time: 2.903 seconds
+[epoch=102, iter=  600] loss: 0.294 epoch time: 2.901 seconds
+[epoch=102, iter=  600] loss: 0.294 epoch time: 2.901 seconds
+[epoch=103, iter=  200] loss: 0.268 epoch time: 3.050 seconds
+[epoch=103, iter=  200] loss: 0.268 epoch time: 3.050 seconds
+[epoch=103, iter=  400] loss: 0.269 epoch time: 3.010 seconds
+[epoch=103, iter=  400] loss: 0.269 epoch time: 3.010 seconds
+[epoch=103, iter=  600] loss: 0.299 epoch time: 3.044 seconds
+[epoch=103, iter=  600] loss: 0.299 epoch time: 3.044 seconds
+[epoch=104, iter=  200] loss: 0.256 epoch time: 2.961 seconds
+[epoch=104, iter=  200] loss: 0.256 epoch time: 2.961 seconds
+[epoch=104, iter=  400] loss: 0.284 epoch time: 3.002 seconds
+[epoch=104, iter=  400] loss: 0.284 epoch time: 3.002 seconds
+[epoch=104, iter=  600] loss: 0.287 epoch time: 3.012 seconds
+[epoch=104, iter=  600] loss: 0.287 epoch time: 3.012 seconds
+[epoch=105, iter=  200] loss: 0.262 epoch time: 2.973 seconds
+[epoch=105, iter=  200] loss: 0.262 epoch time: 2.973 seconds
+[epoch=105, iter=  400] loss: 0.260 epoch time: 2.990 seconds
+[epoch=105, iter=  400] loss: 0.260 epoch time: 2.990 seconds
+[epoch=105, iter=  600] loss: 0.273 epoch time: 2.959 seconds
+[epoch=105, iter=  600] loss: 0.273 epoch time: 2.959 seconds
+[epoch=106, iter=  200] loss: 0.255 epoch time: 3.017 seconds
+[epoch=106, iter=  200] loss: 0.255 epoch time: 3.017 seconds
+[epoch=106, iter=  400] loss: 0.257 epoch time: 3.005 seconds
+[epoch=106, iter=  400] loss: 0.257 epoch time: 3.005 seconds
+[epoch=106, iter=  600] loss: 0.284 epoch time: 3.115 seconds
+[epoch=106, iter=  600] loss: 0.284 epoch time: 3.115 seconds
+[epoch=107, iter=  200] loss: 0.259 epoch time: 2.928 seconds
+[epoch=107, iter=  200] loss: 0.259 epoch time: 2.928 seconds
+[epoch=107, iter=  400] loss: 0.264 epoch time: 3.215 seconds
+[epoch=107, iter=  400] loss: 0.264 epoch time: 3.215 seconds
+[epoch=107, iter=  600] loss: 0.266 epoch time: 3.176 seconds
+[epoch=107, iter=  600] loss: 0.266 epoch time: 3.176 seconds
+[epoch=108, iter=  200] loss: 0.249 epoch time: 3.274 seconds
+[epoch=108, iter=  200] loss: 0.249 epoch time: 3.274 seconds
+[epoch=108, iter=  400] loss: 0.253 epoch time: 3.126 seconds
+[epoch=108, iter=  400] loss: 0.253 epoch time: 3.126 seconds
+[epoch=108, iter=  600] loss: 0.263 epoch time: 3.086 seconds
+[epoch=108, iter=  600] loss: 0.263 epoch time: 3.086 seconds
+[epoch=109, iter=  200] loss: 0.251 epoch time: 3.381 seconds
+[epoch=109, iter=  200] loss: 0.251 epoch time: 3.381 seconds
+[epoch=109, iter=  400] loss: 0.269 epoch time: 3.035 seconds
+[epoch=109, iter=  400] loss: 0.269 epoch time: 3.035 seconds
+[epoch=109, iter=  600] loss: 0.259 epoch time: 3.184 seconds
+[epoch=109, iter=  600] loss: 0.259 epoch time: 3.184 seconds
+[epoch=110, iter=  200] loss: 0.245 epoch time: 3.053 seconds
+[epoch=110, iter=  200] loss: 0.245 epoch time: 3.053 seconds
+[epoch=110, iter=  400] loss: 0.264 epoch time: 3.064 seconds
+[epoch=110, iter=  400] loss: 0.264 epoch time: 3.064 seconds
+[epoch=110, iter=  600] loss: 0.282 epoch time: 3.216 seconds
+[epoch=110, iter=  600] loss: 0.282 epoch time: 3.216 seconds
+[epoch=111, iter=  200] loss: 0.247 epoch time: 2.966 seconds
+[epoch=111, iter=  200] loss: 0.247 epoch time: 2.966 seconds
+[epoch=111, iter=  400] loss: 0.268 epoch time: 2.960 seconds
+[epoch=111, iter=  400] loss: 0.268 epoch time: 2.960 seconds
+[epoch=111, iter=  600] loss: 0.260 epoch time: 2.985 seconds
+[epoch=111, iter=  600] loss: 0.260 epoch time: 2.985 seconds
+[epoch=112, iter=  200] loss: 0.232 epoch time: 3.152 seconds
+[epoch=112, iter=  200] loss: 0.232 epoch time: 3.152 seconds
+[epoch=112, iter=  400] loss: 0.250 epoch time: 3.121 seconds
+[epoch=112, iter=  400] loss: 0.250 epoch time: 3.121 seconds
+[epoch=112, iter=  600] loss: 0.254 epoch time: 3.097 seconds
+[epoch=112, iter=  600] loss: 0.254 epoch time: 3.097 seconds
+[epoch=113, iter=  200] loss: 0.261 epoch time: 3.231 seconds
+[epoch=113, iter=  200] loss: 0.261 epoch time: 3.231 seconds
+[epoch=113, iter=  400] loss: 0.244 epoch time: 3.276 seconds
+[epoch=113, iter=  400] loss: 0.244 epoch time: 3.276 seconds
+[epoch=113, iter=  600] loss: 0.256 epoch time: 3.074 seconds
+[epoch=113, iter=  600] loss: 0.256 epoch time: 3.074 seconds
+[epoch=114, iter=  200] loss: 0.233 epoch time: 3.213 seconds
+[epoch=114, iter=  200] loss: 0.233 epoch time: 3.213 seconds
+[epoch=114, iter=  400] loss: 0.241 epoch time: 3.242 seconds
+[epoch=114, iter=  400] loss: 0.241 epoch time: 3.242 seconds
+[epoch=114, iter=  600] loss: 0.253 epoch time: 3.206 seconds
+[epoch=114, iter=  600] loss: 0.253 epoch time: 3.206 seconds
+[epoch=115, iter=  200] loss: 0.226 epoch time: 3.252 seconds
+[epoch=115, iter=  200] loss: 0.226 epoch time: 3.252 seconds
+[epoch=115, iter=  400] loss: 0.246 epoch time: 3.124 seconds
+[epoch=115, iter=  400] loss: 0.246 epoch time: 3.124 seconds
+[epoch=115, iter=  600] loss: 0.250 epoch time: 3.084 seconds
+[epoch=115, iter=  600] loss: 0.250 epoch time: 3.084 seconds
+[epoch=116, iter=  200] loss: 0.243 epoch time: 2.953 seconds
+[epoch=116, iter=  200] loss: 0.243 epoch time: 2.953 seconds
+[epoch=116, iter=  400] loss: 0.234 epoch time: 3.088 seconds
+[epoch=116, iter=  400] loss: 0.234 epoch time: 3.088 seconds
+[epoch=116, iter=  600] loss: 0.248 epoch time: 3.134 seconds
+[epoch=116, iter=  600] loss: 0.248 epoch time: 3.134 seconds
+[epoch=117, iter=  200] loss: 0.224 epoch time: 3.256 seconds
+[epoch=117, iter=  200] loss: 0.224 epoch time: 3.256 seconds
+[epoch=117, iter=  400] loss: 0.233 epoch time: 3.206 seconds
+[epoch=117, iter=  400] loss: 0.233 epoch time: 3.206 seconds
+[epoch=117, iter=  600] loss: 0.240 epoch time: 3.166 seconds
+[epoch=117, iter=  600] loss: 0.240 epoch time: 3.166 seconds
+[epoch=118, iter=  200] loss: 0.228 epoch time: 3.061 seconds
+[epoch=118, iter=  200] loss: 0.228 epoch time: 3.061 seconds
+[epoch=118, iter=  400] loss: 0.226 epoch time: 3.037 seconds
+[epoch=118, iter=  400] loss: 0.226 epoch time: 3.037 seconds
+[epoch=118, iter=  600] loss: 0.241 epoch time: 3.016 seconds
+[epoch=118, iter=  600] loss: 0.241 epoch time: 3.016 seconds
+[epoch=119, iter=  200] loss: 0.230 epoch time: 3.455 seconds
+[epoch=119, iter=  200] loss: 0.230 epoch time: 3.455 seconds
+[epoch=119, iter=  400] loss: 0.229 epoch time: 3.103 seconds
+[epoch=119, iter=  400] loss: 0.229 epoch time: 3.103 seconds
+[epoch=119, iter=  600] loss: 0.227 epoch time: 3.079 seconds
+[epoch=119, iter=  600] loss: 0.227 epoch time: 3.079 seconds
+[epoch=120, iter=  200] loss: 0.220 epoch time: 3.104 seconds
+[epoch=120, iter=  200] loss: 0.220 epoch time: 3.104 seconds
+[epoch=120, iter=  400] loss: 0.230 epoch time: 3.171 seconds
+[epoch=120, iter=  400] loss: 0.230 epoch time: 3.171 seconds
+[epoch=120, iter=  600] loss: 0.244 epoch time: 3.222 seconds
+[epoch=120, iter=  600] loss: 0.244 epoch time: 3.222 seconds
+[epoch=121, iter=  200] loss: 0.224 epoch time: 3.218 seconds
+[epoch=121, iter=  200] loss: 0.224 epoch time: 3.218 seconds
+[epoch=121, iter=  400] loss: 0.231 epoch time: 3.176 seconds
+[epoch=121, iter=  400] loss: 0.231 epoch time: 3.176 seconds
+[epoch=121, iter=  600] loss: 0.248 epoch time: 3.070 seconds
+[epoch=121, iter=  600] loss: 0.248 epoch time: 3.070 seconds
+[epoch=122, iter=  200] loss: 0.214 epoch time: 3.115 seconds
+[epoch=122, iter=  200] loss: 0.214 epoch time: 3.115 seconds
+[epoch=122, iter=  400] loss: 0.216 epoch time: 3.266 seconds
+[epoch=122, iter=  400] loss: 0.216 epoch time: 3.266 seconds
+[epoch=122, iter=  600] loss: 0.226 epoch time: 3.603 seconds
+[epoch=122, iter=  600] loss: 0.226 epoch time: 3.603 seconds
+[epoch=123, iter=  200] loss: 0.217 epoch time: 3.502 seconds
+[epoch=123, iter=  200] loss: 0.217 epoch time: 3.502 seconds
+[epoch=123, iter=  400] loss: 0.223 epoch time: 3.067 seconds
+[epoch=123, iter=  400] loss: 0.223 epoch time: 3.067 seconds
+[epoch=123, iter=  600] loss: 0.231 epoch time: 2.954 seconds
+[epoch=123, iter=  600] loss: 0.231 epoch time: 2.954 seconds
+[epoch=124, iter=  200] loss: 0.212 epoch time: 3.096 seconds
+[epoch=124, iter=  200] loss: 0.212 epoch time: 3.096 seconds
+[epoch=124, iter=  400] loss: 0.218 epoch time: 2.987 seconds
+[epoch=124, iter=  400] loss: 0.218 epoch time: 2.987 seconds
+[epoch=124, iter=  600] loss: 0.225 epoch time: 3.038 seconds
+[epoch=124, iter=  600] loss: 0.225 epoch time: 3.038 seconds
+[epoch=125, iter=  200] loss: 0.207 epoch time: 2.942 seconds
+[epoch=125, iter=  200] loss: 0.207 epoch time: 2.942 seconds
+[epoch=125, iter=  400] loss: 0.217 epoch time: 3.018 seconds
+[epoch=125, iter=  400] loss: 0.217 epoch time: 3.018 seconds
+[epoch=125, iter=  600] loss: 0.229 epoch time: 3.416 seconds
+[epoch=125, iter=  600] loss: 0.229 epoch time: 3.416 seconds
+[epoch=126, iter=  200] loss: 0.197 epoch time: 3.268 seconds
+[epoch=126, iter=  200] loss: 0.197 epoch time: 3.268 seconds
+[epoch=126, iter=  400] loss: 0.228 epoch time: 3.455 seconds
+[epoch=126, iter=  400] loss: 0.228 epoch time: 3.455 seconds
+[epoch=126, iter=  600] loss: 0.228 epoch time: 3.759 seconds
+[epoch=126, iter=  600] loss: 0.228 epoch time: 3.759 seconds
+[epoch=127, iter=  200] loss: 0.205 epoch time: 3.175 seconds
+[epoch=127, iter=  200] loss: 0.205 epoch time: 3.175 seconds
+[epoch=127, iter=  400] loss: 0.221 epoch time: 3.133 seconds
+[epoch=127, iter=  400] loss: 0.221 epoch time: 3.133 seconds
+[epoch=127, iter=  600] loss: 0.224 epoch time: 3.022 seconds
+[epoch=127, iter=  600] loss: 0.224 epoch time: 3.022 seconds
+[epoch=128, iter=  200] loss: 0.204 epoch time: 2.979 seconds
+[epoch=128, iter=  200] loss: 0.204 epoch time: 2.979 seconds
+[epoch=128, iter=  400] loss: 0.207 epoch time: 2.900 seconds
+[epoch=128, iter=  400] loss: 0.207 epoch time: 2.900 seconds
+[epoch=128, iter=  600] loss: 0.207 epoch time: 3.144 seconds
+[epoch=128, iter=  600] loss: 0.207 epoch time: 3.144 seconds
+Accuracy of the network on the 10000 test images: 70.51%
